@@ -1,0 +1,19 @@
+{
+  "name": "myjsback",
+  "version": "1.0.0",
+  "description": "My JS Backend Application Template",
+  "main": "index.js",
+  "author": "Tran Duc Loi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mariadb": "^2.5.2",
+    "mysql2": "^2.2.5",
+    "oracledb": "^5.1.0",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0",
+    "tedious": "^9.2.1"
+  }
+}
